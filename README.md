@@ -1,2 +1,9 @@
-# sql-jdbc-lucene
-A multi-module maven project to work with sql, jdbc and lucene
+# jdbc-maven-examples
+
+## Overview
+
+- j1 : first maven project
+- j2 : 
+
+## Installtion
+
