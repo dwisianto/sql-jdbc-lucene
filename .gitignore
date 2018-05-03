@@ -1,2 +1,10 @@
 *~
 *.1.46-bin.jar
+/j1/j1a.jv1a/target/
+/j1/j1a.jv1a/.settings/
+/j1/.settings/
+/j1/j1b.mysql1a/.settings/
+/j1/j1b.mysql1a/target/
+/j1/j1b.mysql1a/bin/
+/j1/j1a.jv1a/bin/
+*.project

@@ -7,11 +7,12 @@
 
 	<parent>
 		<groupId>d.io</groupId>
-		<artifactId>b9</artifactId>
+		<artifactId>j1</artifactId>
 		<version>0.1</version>
 	</parent>
 
 	<artifactId>j1b.mysql1a</artifactId>
+	<version>0.1</version>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
